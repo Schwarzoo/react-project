@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Schwarzoo/react-project/static/css/main.a973732a.css",
+    "main.js": "/Schwarzoo/react-project/static/js/main.6b6ca167.js",
+    "static/js/453.6d0ec46e.chunk.js": "/Schwarzoo/react-project/static/js/453.6d0ec46e.chunk.js",
+    "static/media/dan.PNG": "/Schwarzoo/react-project/static/media/dan.26e4acd172b6a3ac0991.PNG",
+    "static/media/chiste.PNG": "/Schwarzoo/react-project/static/media/chiste.6a9152bcf0863f9bd03a.PNG",
+    "static/media/roccia.PNG": "/Schwarzoo/react-project/static/media/roccia.bc97580c6999b986e50f.PNG",
+    "index.html": "/Schwarzoo/react-project/index.html",
+    "main.a973732a.css.map": "/Schwarzoo/react-project/static/css/main.a973732a.css.map",
+    "main.6b6ca167.js.map": "/Schwarzoo/react-project/static/js/main.6b6ca167.js.map",
+    "453.6d0ec46e.chunk.js.map": "/Schwarzoo/react-project/static/js/453.6d0ec46e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a973732a.css",
+    "static/js/main.6b6ca167.js"
+  ]
+}
